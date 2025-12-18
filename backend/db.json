@@ -1,0 +1,74 @@
+{
+  "equipment": [
+    {
+      "id": "1",
+      "name": "Water Pump",
+      "type": "Machine",
+      "status": "Active",
+      "date": "2025-12-10"
+    },
+    {
+      "id": "2",
+      "name": "Storage Tank",
+      "type": "Tank",
+      "status": "Active",
+      "date": "2025-12-08"
+    },
+    {
+      "id": "3",
+      "name": "Mixing Bowl",
+      "type": "Mixer",
+      "status": "Under Maintenance",
+      "date": "2025-12-09"
+    },
+    {
+      "id": "4",
+      "name": "Cooking Vessel",
+      "type": "Vessel",
+      "status": "Active",
+      "date": "2025-12-11"
+    },
+    {
+      "id": "5",
+      "name": "Conveyor Belt",
+      "type": "Machine",
+      "status": "Inactive",
+      "date": "2025-12-07"
+    },
+    {
+      "id": "6",
+      "name": "Milk Tank",
+      "type": "Tank",
+      "status": "Active",
+      "date": "2025-12-12"
+    },
+    {
+      "id": "7",
+      "name": "Blender",
+      "type": "Mixer",
+      "status": "Active",
+      "date": "2025-12-05"
+    },
+  {
+  "id": "8",
+  "name": "Cooking Pot",
+  "type": "Vessel",
+  "status": "Under Maintenance",
+  "date": "2025-12-06"
+ },
+    {
+      "id": "9",
+      "name": "Grinder",
+      "type": "Machine",
+      "status": "Active",
+      "date": "2025-12-04"
+    },
+    {
+      "id": "10",
+      "name": "Juice Tank",
+      "type": "Tank",
+      "status": "Active",
+      "date": "2025-12-10"
+    }
+  ]
+}
